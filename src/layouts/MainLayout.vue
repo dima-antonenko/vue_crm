@@ -58,7 +58,6 @@
 
     <main class="app-content">
       <div class="app-page">
-        <h2>main layout</h2>
         <router-view/>
       </div>
     </main>
